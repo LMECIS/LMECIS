@@ -39,10 +39,6 @@ Welcome to my secure zone. I specialize in building secure applications, automat
 
 ---
 
-### 🕸️ Contribution Graph
-
-![Snake Animation](https://raw.githubusercontent.com/LMECIS/LMECIS/output/github-contribution-grid-snake.svg)
-
 </div>
 
 <br/>
