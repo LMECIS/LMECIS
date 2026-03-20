@@ -29,24 +29,24 @@ Welcome to my secure zone. I specialize in building secure applications, automat
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LMECIS&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMECIS&layout=compact&theme=radical" height="150" alt="stats graph" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=[YOUR_GITHUB_USERNAME]&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak stats graph" />
+  <img src="https://streak-stats.demolab.com?user=LMECIS&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak stats graph" />
 </div>
 
 ---
 
 ### 🕸️ Contribution Graph
 
-![Snake Animation](https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/LMECIS/LMECIS/output/github-contribution-grid-snake.svg)
 
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20views&color=0e75b6&style=flat" alt="[YOUR_GITHUB_USERNAME]" />
+  <img src="https://komarev.com/ghpvc/?username=LMECIS&label=Profile%20views&color=0e75b6&style=flat" alt="LMECIS" />
 </p>
