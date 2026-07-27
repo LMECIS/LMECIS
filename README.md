@@ -56,9 +56,6 @@
 
 <div align="center">
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LMECIS&show_icons=true&theme=radical&count_private=true&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LMECIS&layout=compact&theme=radical&hide_border=true) |
-|---|---|
-
 ![Streak Stats](https://streak-stats.demolab.com?user=LMECIS&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5)
 
 </div>
