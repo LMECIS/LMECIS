@@ -20,7 +20,7 @@
 
 | 📌 | Description |
 |---|---|
-| 🔭 | Currently working on **SYS.ADMIN game** |
+| 🔭 | Currently working on **FastCloud project** |
 | 🌱 | Currently learning **Advanced Penetration Testing & Cloud Security** |
 | 👯 | Looking to collaborate on **Open Source Security Projects** |
 | 🤔 | Looking for help with **Breaking CTF Challenges** |
